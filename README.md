@@ -17,8 +17,6 @@
 - You can reach me via email at shahmanan1014@gmail.com.
 - Connect with me on LinkedIn: https://www.linkedin.com/in/mananshah2004/
 
-## 😄 Pronouns
-- He/Him
 
 ## ⚡ Fun Fact
 - I’m always up for a coding challenge or hackathon. When I’m not coding, I enjoy reading tech blogs and exploring new places.
